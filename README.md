@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alfred
-- 👀 I’m interested in frond-end development.
+- 👀 I’m interested in front-end development.
 - 🌱 I’m currently learning javascript and
 - 💞️ I’m looking to collaborate on any mini project of a kind.
 - 📫 Let's connect. 
