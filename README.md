@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alfred
 - 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning javascript and
+- 🌱 I’m currently learning javaScript and
 - 💞️ I’m looking to collaborate on any mini project of a kind.
-- 📫 Let's connect. 
+- 📫 Let's connect buddy. 
 
 <!---
 01Alfred/01Alfred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
